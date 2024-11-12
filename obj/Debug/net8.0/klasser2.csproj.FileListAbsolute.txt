@@ -12,3 +12,4 @@ C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\klasser2\obj\De
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\klasser2\obj\Debug\net8.0\klasser2.pdb
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\klasser2\obj\Debug\net8.0\klasser2.genruntimeconfig.cache
 C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\klasser2\obj\Debug\net8.0\ref\klasser2.dll
+C:\Users\alle07002\OneDrive - Växjö kommun\Skrivbordet\program\klasser2\obj\Debug\net8.0\klasser2.sourcelink.json

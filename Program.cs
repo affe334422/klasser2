@@ -50,10 +50,32 @@ do{
     a1 = Console.ReadLine();
     Console.WriteLine("Vad är det för model? ");
     a2 = Console.ReadLine();
-    Console.WriteLine("När skapades bilen? ");
-    a3 = int.Parse(Console.ReadLine());
-    Console.WriteLine("Vad väger den? ");
-    a4 = int.Parse(Console.ReadLine());
+    while (true) {
+        Console.WriteLine("När skapades bilen? ");
+        try
+        {
+            a3 = int.Parse(Console.ReadLine());
+            break;
+        }
+        catch (System.Exception)
+        {
+            Console.WriteLine("Du skulle skriva ett numer");
+        }
+    }
+
+    while (true) {
+        Console.WriteLine("Vad väger den? ");
+        try
+        {
+            a4 = int.Parse(Console.ReadLine());
+            break;
+        }
+        catch (System.Exception)
+        {
+            Console.WriteLine("Du skulle skriva ett numer");
+        }
+    }
+    
 
     bilarlista.Add(new testför2(a1,a2,a3,a4));
 
